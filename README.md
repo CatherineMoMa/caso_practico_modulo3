@@ -20,4 +20,4 @@ menos han gustado a los clientes.
 | Mexican   | 9       |
 | Asian     | 8       |
 | Italian   | 9       |
-
+- El periodo de analisis fue de 3 meses teniendo como primer pedido el 2023-01-01 al 	2023-03-31.
