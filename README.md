@@ -1,6 +1,3 @@
-# caso_practico_modulo3
-Analisis de datos sobre el restaurante "sabores del mundo"
-
 # CASO PRACTICO
 
 ## Contexto
