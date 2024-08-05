@@ -9,3 +9,4 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 menos han gustado a los clientes.
 
 ## Resultado de analisis
+[Uploading data-1722816085119.csv…]()
