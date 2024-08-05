@@ -9,4 +9,6 @@ Identificar cuáles son los productos del menú que han tenido más éxito y cua
 menos han gustado a los clientes.
 
 ## Resultado de analisis
-[Uploading data-1722816085119.csv…]()
+-Se tiene que 32 articulos en el menú
+-El costo de estos productos va 5 a 19.95
+-S
