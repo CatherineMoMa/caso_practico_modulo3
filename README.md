@@ -12,9 +12,12 @@ menos han gustado a los clientes.
 - Se tiene 32 articulos en el menú de los cuales con el precio mas bajo de 5.00 con el producto"Edamame" y con el precio mas alto de 19.95	"Shrimp Scampi".
 - El promedio de precio de estos productos es de 13.285937500000000
 - Con un periodo de 5 dias de 2023-01-01 al 2023-01-05 se tuvieron 702 pedidos
-- Se tienen 5 categorias de las cuales se tiene los siguientes datos:
+- Se tienen 5 categorias con cantidades de plato, como se muestra en la siguiente tabla:
 
 | Categoria | cantidad|
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ----------| ------- |
+| American  | 6       |
+| Mexican   | 9       |
+| Asian     | 8       |
+| Italian   | 9       |
+
